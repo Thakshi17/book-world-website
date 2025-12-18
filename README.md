@@ -26,6 +26,13 @@ Backend features such as login, admin panel, and database integration are planne
 
 Student Project – Educational Purpose Only
 
+
+  
+
+# Author
+Name : Thakshila
+GitHub : https://thakshi17.github.io/book-world-website/
+
 ---
 
 ⭐ Feel free to explore and provide feedback!
