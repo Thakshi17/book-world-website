@@ -37,11 +37,10 @@ Backend features such as login, admin panel, and database integration are planne
 ---
 
 ## 📸 Screenshots
-- ![Home Page](screenshots/home-page.png)
-- ![Categories Page](screenshots/categories-page.png)
-- ![Fiction Page](screenshots/fiction-page.png)
-- ![Contact Us Page](screenshots/contact-us-page.png)
-
+<img src="screenshots/home-page.png" alt="Home Page" width="400">
+<img src="screenshots/categories-page.png" alt="Categories Page" width="400">
+<img src="screenshots/fiction-page.png" alt="Fiction Page" width="400">
+<img src="screenshots/contact-us-page.png" alt="Contact Us Page" width="400">
 ---
 
 ## 👤 Author
