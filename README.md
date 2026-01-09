@@ -6,8 +6,8 @@ This is a frontend Book Shop website developed as a student project using **HTML
 
 ## 🌟 Features
 - Home page
-- Explore Books page
-- Categories page
+- Explore Books page (Best Selling Books of the Month, New Arrivals, etc.)
+- Categories page 
 - Fiction page
 - Non-Fiction page
 - Educational Books page
@@ -16,15 +16,15 @@ This is a frontend Book Shop website developed as a student project using **HTML
 - Gifts & Cards page
 - Customer Testimonials page
 - Contact Us page with form
-- Responsive navigation bar
-- Clean UI design
+- Fixed Header and Footer for Better Navigation
+- Responsive Design (Mobile & Desktop Friendly)
+- Clean UI Design
 
 ---
 
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
-- Responsive Design
 
 ---
 
